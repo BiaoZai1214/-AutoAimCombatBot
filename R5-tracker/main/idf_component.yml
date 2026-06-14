@@ -1,0 +1,3 @@
+dependencies:
+  espressif/esp-dl: "*"
+  espressif/esp32-camera: "*"
