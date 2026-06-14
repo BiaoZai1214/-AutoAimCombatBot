@@ -109,6 +109,10 @@ W5500 ──SPI4──→ http_server.c
 - **底盘控制** — 麦轮运动学 + PID 调试
 - **自瞄云台** — 舵机控制 + 视觉追踪
 
+## 更多
+
+详细项目说明请访问博客：[https://biaozai1214.github.io/Bzone-blog/](https://biaozai1214.github.io/Bzone-blog/)
+
 ## 许可
 
 MIT License
