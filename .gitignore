@@ -1,0 +1,40 @@
+# ==================================
+# H7-CombatBot — Keil MDK 编译产物
+# ==================================
+H7-CombatBot/MDK-ARM/**/*.o
+H7-CombatBot/MDK-ARM/**/*.d
+H7-CombatBot/MDK-ARM/**/*.axf
+H7-CombatBot/MDK-ARM/**/*.hex
+H7-CombatBot/MDK-ARM/**/*.htm
+H7-CombatBot/MDK-ARM/**/*.lnp
+H7-CombatBot/MDK-ARM/**/*.dep
+H7-CombatBot/MDK-ARM/**/*.crf
+H7-CombatBot/MDK-ARM/**/*.lst
+H7-CombatBot/MDK-ARM/**/*.map
+H7-CombatBot/MDK-ARM/**/*.iex
+H7-CombatBot/MDK-ARM/*.uvguix.*
+H7-CombatBot/MDK-ARM/build.log
+H7-CombatBot/MDK-ARM/restore_build.log
+H7-CombatBot/.mxproject
+
+# ==================================
+# R5-Tracker — ESP-IDF 编译产物
+# ==================================
+R5-tracker/build/
+R5-tracker/sdkconfig.old
+R5-tracker/.clangd
+R5-tracker/UnRAR.exe
+R5-tracker/build_errors.txt
+
+# ==================================
+# 通用
+# ==================================
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+.codewhale/
+.deepseek/
